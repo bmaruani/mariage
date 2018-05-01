@@ -115,7 +115,7 @@ body {
 }
 
 .header-image {
-  padding-top: 57px;
+  padding-top: 65px;
 }
 
 .mail {
@@ -144,6 +144,20 @@ body {
   @media (min-width: 1200px) {
     h1 {
       font-size: 6rem;
+    }
+  }
+}
+
+#recettes {
+  a {
+    display: block;
+
+    img {
+      width: 100%;
+    }
+
+    p {
+      text-align: center;
     }
   }
 }

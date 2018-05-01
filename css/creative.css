@@ -97,7 +97,7 @@ body {
   color: #d04527; }
 
 .header-image {
-  padding-top: 57px; }
+  padding-top: 65px; }
 
 .mail {
   color: #212529;
@@ -120,6 +120,13 @@ body {
   @media (min-width: 1200px) {
     #informations h1 {
       font-size: 6rem; } }
+
+#recettes a {
+  display: block; }
+  #recettes a img {
+    width: 100%; }
+  #recettes a p {
+    text-align: center; }
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
